@@ -1712,14 +1712,14 @@
     "strictTransportSecurity": "max-age=31536000; includeSubDomains"
   },
   "smtpServer": {
-    "password": "AjwNWFVbackq/dke0zqm8/2N8IPSkqDl9HJJWa/rN9vl",
+    "password": "",
     "starttls": "true",
     "auth": "true",
     "port": "587",
-    "host": "email-smtp.us-east-1.amazonaws.com",
-    "from": "suporte@mediacaonline.com",
+    "host": "",
+    "from": "",
     "ssl": "false",
-    "user": "AKIAJSFA3NOXRCM4ZOPQ"
+    "user": ""
   },
   "eventsEnabled": false,
   "eventsListeners": [
